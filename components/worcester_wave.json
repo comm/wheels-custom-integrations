@@ -1,0 +1,6 @@
+{
+    "name": "Worcester Wave Boiler Thermostat",
+    "owner": ["comm"],
+    "manifest": "https://github.com/comm/hass-worcester-wave-thermostat/blob/master/custom_components/hass-worcester-wave-thermostat/manifest.json",
+    "url": "https://github.com/comm/hass-worcester-wave-thermostat"
+}
